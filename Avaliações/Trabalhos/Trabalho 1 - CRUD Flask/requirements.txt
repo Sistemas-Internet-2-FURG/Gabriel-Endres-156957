@@ -1,3 +1,0 @@
-flask
-bcrypt
-psycopg2-binary
